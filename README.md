@@ -11,18 +11,31 @@ CampusLoop connects students who need something with those who already have it, 
 ✨ What Makes It Special
 
 🔎 Smart discovery & matching
+
 🤝 Verified student connections
+
 📦 Borrow, rent, donate & share
+
 📍 Campus-based availability
+
 ⭐ Trust scores & reviews
+
 💬 Secure communication
+
 🔔 Smart reminders & notifications
+
 🚀 What's Next
+
 🤖 AI-powered recommendations
+
 📱 Mobile application
+
 🗺️ Smarter campus mapping
+
 📸 AI condition checking
+
 🏫 Multi-college expansion
+
 ♻️ Resource lifecycle tracking
 
 🌱 Our Vision
